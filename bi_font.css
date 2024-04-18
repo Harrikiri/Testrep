@@ -1,0 +1,42 @@
+@font-face{
+    font-family:"BISansNEXT";
+    src:url("https://cdn.recruiting-solutions.org/bi-prod/fonts/BISansNEXT-Bold.otf") format("opentype");
+    font-style:normal;
+    font-weight:bold;
+    font-display:swap
+}
+@font-face{
+    font-family:"BISansNEXT";
+    src:url("https://cdn.recruiting-solutions.org/bi-prod/fonts/BISansNEXT-Regular.otf") format("opentype");
+    font-style:normal;
+    font-weight:normal;
+    font-display:swap
+}
+@font-face{
+    font-family:"BIAntiquaIIMl";
+    src:url("https://cdn.recruiting-solutions.org/bi-prod/fonts/BIAntiquaIIMl-Regular.otf") format("opentype");
+    font-style:normal;
+    font-weight:normal;
+    font-display:swap
+}
+@font-face{
+    font-family:"BIAntiquaIIMl";
+    src:url("https://cdn.recruiting-solutions.org/bi-prod/fonts/BIAntiquaIIMl-Bold.otf") format("opentype");
+    font-style:normal;
+    font-weight:bold;
+    font-display:swap
+}
+@font-face{
+    font-family:"BIEverett";
+    src:url("https://cdn.recruiting-solutions.org/bi-prod/fonts/TWKEverett-Medium.otf") format("opentype");
+    font-style:normal;
+    font-weight:bold;
+    font-display:swap
+}
+@font-face{
+    font-family:"BIEverett";
+    src:url("https://cdn.recruiting-solutions.org/bi-prod/fonts/TWKEverett-Regular.otf") format("opentype");
+    font-style:normal;
+    font-weight:normal;
+    font-display:swap
+}
